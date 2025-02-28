@@ -24,9 +24,9 @@ All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICEN
 # 🏆 Flutter Pokedex  
 
 Una aplicación de Pokedex desarrollada en **Flutter** y **Dart**, que consume la API de [PokeAPI](https://pokeapi.co/) para mostrar información detallada de los Pokémon, incluyendo estadísticas y líneas evolutivas.  
-
-## 📸 Capturas de pantalla  
-<!-- Reemplaza las URLs con imágenes reales de tu app -->
+  
+<!--
+## 📸 Capturas de pantallap -->
 <!--
 ![Lista de Pokémon](https://via.placeholder.com/400x300)  
 ![Detalle de un Pokémon](https://via.placeholder.com/400x300)  
@@ -42,11 +42,7 @@ Una aplicación de Pokedex desarrollada en **Flutter** y **Dart**, que consume l
 - **Flutter** (Framework UI)  
 - **Dart** (Lenguaje de programación)  
 - **Dio** (Cliente HTTP para manejar peticiones)  
-- **PokeAPI** (Fuente de datos)  
+- **PokeAPI** ([Fuente de datos](https://pokeapi.co/))  
 
-## 📦 Instalación  
-1. Clona el repositorio:  
-   ```sh
-   git clone https://github.com/tuusuario/tu-repositorio.git
-   cd tu-repositorio
+
 
